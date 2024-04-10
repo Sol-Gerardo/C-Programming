@@ -1,2 +1,3 @@
 ./.vscode
 TCPL/**/*.dSYM/
+TCPL/**/*.DS_Store
